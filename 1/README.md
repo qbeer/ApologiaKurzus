@@ -1,4 +1,5 @@
-### Bevezetés
+# Bevezetés
+### Előszó
 ---
 * apológia == védőbeszéd/számot adni
     * Fil 1:16, 1Pt 3:15
@@ -45,4 +46,102 @@
     * van egy határ, amikor az ismeretterjesztés már nem működik, mivel már nem elég az információ 
     [*leap of faith*]
         * a lényeg, hogy nem lehet senkit 'bemagyarázni' az Isten országába
+
+### Keresztyén igazság fogalom
+---
+* létezik
+* személyes -> Jézus Krisztus
+    * *,,Én vagyok az út, az igazság és az élet.''* - nélküle nem élünk a teljes valóságban
+* megismerhető
+    * pont emiatt szükséges (!) a *kinyilatkoztatás*, hiszen enélkül képtelenség egymás között ezt eldönteni
+    * a teljes igazság nem a kereszténység, azt senki sem ismeri, Istennek vannak titkai, amit nem nyilatkoztatott ki
+        * nem elegendő az élet összes problémájára a Biblia
+            * pl. nagyon keveset mond az öngyilkosok földöntúli sorsáról
+* valóság
+* számít (!)
+    * nem magányügy, minden ettől függ, nincs világnézeti semlegesség, az ember világképe kihat a jellemére, sorsára, környezetére -> a vallás IDENTITÁST ad!
+* nem birtokolható
+    * Krisztus birtokol minket, nem mi Őt
+    * továbbadni Őt kötelességünk és hivatásunk
+    * nem lehetünk önigazultak (!)
+        * Nem nálunk van az igazság, hanem mi vagyunk az igazságban.
+        * Mi az Istenhez vezető utat védhetjük, nem Istent.
+
+### A hitvédelem célja, a hitelesség alapjai
+---
+* nem befeketítés
+    * empátia
+    * Hogy jutott valaki az adott következtetésre? Mi az alapja ennek?
+* nem intellektuális hobbi
+* nem vita
+    * az ember megnyerése a cél, nem a vitáé
+    * *,,Tegyetek tanítványokká minden népeket...''*
+        * az apostolok is más vallásúaknak szóltak
+
+---
+* hitelesítő élet, 5 evangélium: Máté, Márk, Lukács, János és a keresztény, az utóbbival találkozik a többség
+    * nem vagyunk jobbak
+* mindenki teológus és apologéta, aki a hitéről beszél, és azt védi, amiről a Szentírás ír, szól
+    * senki sem hivatkozhat a saját tekintélyére, csak Krisztusra
+    * Milyen tanítóban bízhatunk? [apológia portálon fenn van egy cikk, hogy ki `alkalmas` a tanításra: a `képzettség`, `felhatalmazás`, `számonkérhetőség` elengedhetetlen] -> [tévtanítások](idokjelei.hu)
+        * a bizalom így alakulhat csak ki
+* mit hiszünk és miért?
+    * eszköz az evangelizációhoz
+    * ha valaki belép a szoros kapun, akkor segíteni kell, hogy végig is menjen a keskeny úton
+
+### Kérdések, kitekintés
+* 9 lelkiségi irányzat
+* ökumenikus: Szentírás, háromságtan, Jézus istensége
+* Hogy lehet Isten/Krisztus az egyedüli igazság?
+    * A valóság kívül áll-e rajtunk vagy nem?
+        * Ha igen, akkor nem bennünk van az igazság, stb.
+    
+# Az apologetika mint evangelizáció
+### Az evangélium
+---
+* miért evangelizálunk?
+    * misszió parancs, a kereszténység egy missziós vallás
+    * cél a tanítvánnyá tétel
+    * térítés
+* tartalom: 1 Kor 15, 1-11
+    * Jn 3,16 - *,,Mert úgy szerette Isten...''*
+        * halálos szeretet, nélküle el vagyunk veszve
+* kompakt egész, koherens üzenet
+    * ha Jézus nem Isten fia, akkor nélküle semmi sem igaz
+    * nem egyszerű, nem magától értetődő
+* Isten létezik -> teljesen új lépés, hogy megszületett, meghalt, feltámadt
+    * aki Isten létezését sem hiszi, attól nagyon távol áll, hogy Krisztus meghalt érte
+* népszerű és népszerűtlen részei vannak
+    * szeret (népszerű), ítélni fog (nem)
+    * mindenkinek más tetszik benne
+        * van aki az egészet elfogadja
+        * van aki elveti
+        * és van aki válogató
+            * magát mégis kereszténynek tartja [**eretnek**]
+            * szakadárság, Galata levélben a test bűnei között van
+
+#### Hogyan adjuk át az evangéliumot?
+---
+* mi Isten dolga és mi a miénk?
+    * Rm 1, 16; **1 Kor 2, 10-16**
+        * a Szentlélek bizonyítja, azt kell megkapni
+    * kinyilatkoztatás kell, személyes
+* mi a célunk?
+    * mások megtérése nem csak tűlünk és tőlük függ, Isten jelenléte, minket csak bevon
+    * célunk lehet minél jobb eszköznek lenni Isten kezében
+        * pásztorok és evangelisták is ezért adattak
+* *személyre szabottság*
+    * 1 Kor 15, ApCsel 8 (*Fülöp és az etióp kincstárnok*, Ézsaiás 53-ból kiindulva hírdeti)
+    * személyes történetünk
+* megfelelő/megteremthető/képesek vagyunk-e rá?
+* nincs semmink amit ne kaptunk volna
+    * számít, hogy hogyan adjuk át
+    * nem rajtunk múlt a dolog (!)
+    * lehetünk transzparensek, vannak meg nem értett dolgaink nekünk is, nem vagyunk bűntelenek
+* nem marketingesek vagyunk, nem 'tukmálók'
+    * annyira fogja érdekelni a másikat a mondanivalónk, amennyir minket érdekel a másik
+        * ,,már minden létező hibát elvkövettem" (más vallásúakkal szemben) - dr. Szalai András
+* nem magaslóról beszélünk, örömmel kell mondani
+    * az, hogy a másik mikor jön rá, hogy erre van szüksége az már a Szentlélek munkája
+    * alázat
 * 
