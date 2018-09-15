@@ -78,7 +78,7 @@
     * *,,Tegyetek tanítványokká minden népeket...''*
         * az apostolok is más vallásúaknak szóltak
 
----
+    ---
 * hitelesítő élet, 5 evangélium: Máté, Márk, Lukács, János és a keresztény, az utóbbival találkozik a többség
     * nem vagyunk jobbak
 * mindenki teológus és apologéta, aki a hitéről beszél, és azt védi, amiről a Szentírás ír, szól
@@ -153,12 +153,12 @@
     * lelkiségi klisék ('Jézus szeret téged.'/'Az Isten szívemre helyezte, nem véleményem van.')
     * elvont, elméleti vita ['Miért csak a zsidók? Mi van a pápuákkal?']
     * csapongás
----
+    ---
 * **kulcskérdések (!!!)**
     * __*Mit értesz ez alatt?*__
     * __*Hogyan jutottál erre a következtetésre?*__
         * A tanulság, hogy az emberek 'csakúgy' gondolnak valamit, bármiféle megalapozottség nélkül.
----
+    ---
 * példák
     * **1 Kor 2, 1-5**: jogos igény, hogy a hitnek legyen alapja, de a maradandó alap nem a ~~bölcsesség~~, ~~ékesszólás~~, hanem __*Krisztus*__
     * **1 Thessz 2, 7-9**: hiteles igehírdetés a szegény görögöknek, mivel munkából élt Pál, nem élt apostoli *jogaival*, __*ingyen evangélium*__
@@ -188,4 +188,54 @@
     * gyülekezetekben ugyan olyan arányban van jelen a világi bűn - *ennyire nincs ereje az evangáliumnak??? , vagy ennyir nem engedelmeskedünk neki? :(*
     * fontos, hogy kik vagyunk **MI** Krisztusban
         * minden korban mást jelentett *igazán* tanítványnak lenni ~ (cölibátus, hippi mozgalom Chuck bácsi [?] - golgotás mozgalom [?]) -> nem feltétlenül Krisztusról szól, hanem a korról, ez lehet probléma, de lehet előny is
-* 
+
+### Kérdések, kitekintés
+* A mi mércénk számít vagy az Ő lénye a mérce?
+    * Aki nem érzi magát bűnösnek, bűn definíciója, stb
+
+# Integratív apologetika
+### Módszertani iskolák
+---
+* __*klasszikus*__: logikai érvek igazolják a keresztyén gondolatok ésszerrűségét
+    * korai egyházak óta létezik
+    * művelői: C.S.Lewis, Norman Geisler, Alister McGrath
+    * racionális, az értelem eszközeivel igazolható, ésszerű
+    * két lépeses stratégia: **1)** *Isten léte*, **2)** *Krisztusban adott kinyilatkoztatás*
+    * kiállta az idő próbáját
+    * a keresztyén igazság mellett érvel, de nem belőle
+        * az értelem romlott, vannak dolgok, amiket hit által lehet csak megérteni   
+        --- 
+* __*evidencialista*__: tények igazolják a keresztyén igazság valószínűségét
+    * szemléltetés, nem bizonyíték (not proof, evidence)
+    * művelői: Joseph Butler, Josh McDowell, Lee Strobel (A Jézus dosszié)
+    * a keresztyén igazságot a történelem és a tapasztalat bizonyítja, nem csak a filozófia
+        * minden szaktudomány eredményét felhasználja
+    * kritizálható, hogy a keresztény igazság mellett érvel, és, hogy lényegében azt gondolja, hogy Isten tudományosan `bizonyítható`, akkor aki nem hisz az buta
+    ---
+* __*fideista*__: csak hit által megismerhető
+    * Kierkegaard: az értelem közel hozta Istent mégis távol van
+    * művelői: Blaise Pascal, Kierkegaard, stb.
+    * Isten *nem racionális*, a józan ésszel *ellentétes*
+        * végső soron csak a hitből fakadó tapasztalat igazolhatja csak a keresztyén igazságot
+            * *leap of faith*
+    * kritizálható, hogy Jézus és az apostolok is érveltek a nem hívőknek
+        * körérvelés: hinni hitből, *de ha nincs hit*?
+        ---
+* __*preszuppozicionalista*__: feltevések vannak, Isten léte az egyetlen helyes
+    * *előfeltevés*
+    * művelői: **Kálvin**, Abraham Kuyper, Cornelius Van Til, Alvin **Plantinga**
+    * a *teizmusig* eljutni nem elég (!)
+    * Isten nélkül semmi sem bizonyítható
+        * jogos feltételezés, hogy létezik Isten, és az is, hogy nem
+        * ezzel az előfeltétellel kell kezdeni (!)
+    * rá kell mutatni, hogy a nem hívő életében lévő dolgok __*Istentől*__ vannak
+        * csak ez nyújt eszközt a világi megismeréshez
+    * irányzatai: kinyilatkoztatás, racionális
+    * *legjobb védekezés a támadás*
+        * nem szolgálja ki a hitetlen igényeit
+    * kritizálható, Krisztus és az apostolok is érvelnek logikusan, körérvelés (!), az, hogy semmilyen világmagyarázat elégtelen, még nem igazolja a keresztyénséget
+        * a körérvelés agnoszticizmushoz vezet
+        ---
+* __*integratív apologetika*__: a fentebbieket kombinálja
+    * azt kell adnunk amire szüksége van az adott embernek akivel beszélünk
+        * a fentebbiek ezért nem egymást kizáró dolgok (!)
