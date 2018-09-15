@@ -144,4 +144,48 @@
 * nem magaslóról beszélünk, örömmel kell mondani
     * az, hogy a másik mikor jön rá, hogy erre van szüksége az már a Szentlélek munkája
     * alázat
+* a hír jelenné vált és mi már benne vagyunk a történetben, reménykednünk kell, hogy a másik is belekerülhet
+    * Krisztus ránk bízta a jóhírét, erre lehet építeni, hiszen ennyire számított ránk
+* odefigyelés
+    * 'Jézus a válasz.' - de hát hol tart a másik?
+        * mennyit tud befogadni most?
+        * mi érdekli a másikat?
+    * lelkiségi klisék ('Jézus szeret téged.'/'Az Isten szívemre helyezte, nem véleményem van.')
+    * elvont, elméleti vita ['Miért csak a zsidók? Mi van a pápuákkal?']
+    * csapongás
+---
+* **kulcskérdések (!!!)**
+    * __*Mit értesz ez alatt?*__
+    * __*Hogyan jutottál erre a következtetésre?*__
+        * A tanulság, hogy az emberek 'csakúgy' gondolnak valamit, bármiféle megalapozottség nélkül.
+---
+* példák
+    * **1 Kor 2, 1-5**: jogos igény, hogy a hitnek legyen alapja, de a maradandó alap nem a ~~bölcsesség~~, ~~ékesszólás~~, hanem __*Krisztus*__
+    * **1 Thessz 2, 7-9**: hiteles igehírdetés a szegény görögöknek, mivel munkából élt Pál, nem élt apostoli *jogaival*, __*ingyen evangélium*__
+    * **1 Pt 3, 14-16**: hitelesség (!), összhang a hit és cselekedetek között
+    * **ApCsel 17**: becsülte őket, közéjük ment, elismeri őket, *AZ ISMERETLEN ISTENNEK*, nem kő, faragott kép az Isten, nem ilyen egyszerű, eljött közénk és feltámadt, Ő itéli meg majd a világot, kevesen tértek meg és hittek neki
+
+### Tanítványság és hitelesség
+---
+* miért halgassanak meg minket?
+    * a téma miatt, miattunk (só és világosság, hegyen épült város)
+        * elég szóba hozni Jézust és hirtelen mindenkinek lesz **véleménye**
+* kapcsolatban vagyunk-e nem keresztyénekkel?
+    * *az evangelizáció a kapcsolatainkból fakad*
+    * *részt veszünk-e az életükben?*
+* képmutatók vagyunk-e?
+* mik vagyunk mi?
+    * __*2 Kor 2, 14-17*__
+    * __*Fil 2, 15*__
+    * __*Mt 5, 14*__
+    * __*Mt 5, 13*__; __*Lk 14, 34*__; __*Mk 9, 50*__ - a föld sója, különböző definíciók az evangélistáknál
+* a hitelesség nem tökéletességet jelent
+    * mi is épülünk, felvállalhatjuk ezt
+    * átformálódni -> krisztusivá válni
+* mi hiányozna a környezetünknek?
+    * *só a levesben, vagy a sótartóban...*
+* mit jelent tanítványnak lenni?
+    * gyülekezetekben ugyan olyan arányban van jelen a világi bűn - *ennyire nincs ereje az evangáliumnak??? , vagy ennyir nem engedelmeskedünk neki? :(*
+    * fontos, hogy kik vagyunk **MI** Krisztusban
+        * minden korban mást jelentett *igazán* tanítványnak lenni ~ (cölibátus, hippi mozgalom Chuck bácsi [?] - golgotás mozgalom [?]) -> nem feltétlenül Krisztusról szól, hanem a korról, ez lehet probléma, de lehet előny is
 * 
