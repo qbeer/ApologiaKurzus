@@ -81,3 +81,72 @@ A szervezet
     * indoklás: új világosság (Péld 4:18), azaz, hogy nem változnak a tanok, hanem egyre világosabban látják azokat - fokozódó világosság
     * lavírozás: a magyarázatok ilyenek, éppen aktuálisan magyarázzák a Bibliát - nincsenek magyarázati elveik (!)
 
+Új világ fordítás
+=================
+
+* alapvető probléma volt, hogy az elérhető angol nyelvű fordítások nem feleltek meg a tanaiknak
+    * persze nem a tanokban keresték a problémát, hanem magában a fordításaikban
+* Emphatic Diaglott (1942), The Bible in Living English (1972) - kiadott Biblia fordítások az Új Világ előtt
+* csak az érdekelte őket a szöveg kapcsán, hogy ők mit szeretnének látni, kutatták a magán fordításokat, hogy olyanokat találjanak amik megfelelnek a szájízűknek
+* az Új világ fordítás szerzői is névtelenek
+    * persze olyan indokkal, hogy SDG, de így nem számonkérhetőek
+* Új világ fordítás - New World Translation (NWT)
+    * revíziók: 1950, 1984, 2013
+    * 150 nyelven, 217 millió példányban
+* The Kingdom Interlinear Translation (1969, 1985) - görög szöveg, angol fordítás, a helyreállított szöveg szerintük oldalt található (!) 
+    * ebből lényegében világosan látszik, hogy az NWT ferdítés
+* az ÚVF magyarul csak 2000-ben jelent megy, akkor is csak az Újszövegség - keresztény görög iratok, **2003**-ban a teljes, **2017**-ben jelent meg a 2013-as revideált NWT fordítás
+* az ÚVF sajátságai
+    * címek: Héber iratok, Keresztény Görög Iratok - kerülik a szövetség fogalmát
+    * az előszavakban hangsúlyozzák, hogy pontos és megbízható fordítások ezek
+    * ___2017-ig az értelmezést segítő betoldásokat *[...]* jelezték, ma már ezt nem teszik (!!!)___
+    * általános kritika:
+        * modern és modernkedő
+        * betoldásokkal és kihagyásokkal tarkított, teológiailag fontos szövegek HAMISÍTVA vannak - *Jézus istensége, Szent Lélek volta, lélek hallhatatlansága*
+* az ÚVF/NWT függeléke olyan témákat tartalmaz, maely komoly ókortudományi, vagy nyelvészeti ismeretet igényelne, így az átlag olvasó nem tud utána járni ténylegesen a dolgoknak (!)
+
+A Jehova név
+============
+
+* jelentése: aki életetni fog
+    * minde valószínűség szerint *Jahve*
+* ez nem egy személynév
+* a zsidó hagyományban elterjed, hogy JHVH-t olvastak, de *Adonáj*t mondtak
+* a középkori teológusok olvasták össze a JHVH és az Adonák magánhangzóit, hogy a művelt olvasó tudja, hogy Adonájnak kell mondani Jahve helyett - USTAN (i**ST**e**N** + **U**r**A**m)
+    * lényegében a Jehova egy ugyan ilyen nevetséges összeolvasás
+* Jehova Tanúi azt állítják, hogy ők helyreállítják Isten nevét, az elméletük az, hogy az Ószövetségből átvitták Isten nevét az Újszövetségbe, és azért lett összetéveszthető Jézus és Isten, mert a 4. században egyházi fordítók átvitték az Úr szavakat (küriosz) az Újszövetségbe
+    * azaz azt állítják, hogy pusztán Biblia hamisítás miatt lett Krisztus Istenné
+    * ennek semmiféle nyoma nincs (!)
+* a fennmaradt görög Újszövetségek nem tartalmaznak egy héber betűt sem, nem található benne JHVH - csak Szeptuaginta fordításokra hivatkoznak (amik Ószövetség görög fordításai)
+* éppen az volt az apostoli tanítás, hogy Isten emberré lett, tehát nem összetéveszthető a kettő, hanem pontosna ez a lényeg
+* Jehova Tanúi tudatosan cserélték le az Úr szavakat az ÚVF-ben, ahol az nem mondott ellent a tanaiknak
+* állításuk szerint Az Őrtorony társulat nélkül nem lehet érteni a Bibliát
+    * aki tanbeli dolgokkal nem ért egyet, az csak jellemhibából fakadhat
+    * lényegében kerülni kell a független gondolkodást
+
+Tanaik
+======
+
+* Jehova Isten, a háromság pogány tan, Isten neve van és a neve Jehova
+* csak Őt szabad segítségül hívni, (Róm 10:13) - de nekik felfoghatatlan, hogy ez nem a név segítségül hívását jelenti, hanem a személyét
+    * hebraizmus - **név = személy**, mivel nincs személyre mutató szó a héberben, mai napig (`hasém` - a név) így hivatkoznak rá a zsidók
+    * Krisztus: megismertettem velük nevedet - magát Istent
+* állításuk szerint Krisztus Mihály arkangyal, ez is egy adventista tan volt, de ott csak jelző/munkaköri leírás, itt már azonosítás
+    * ő volt Isten első teremtménye, aki által minden mást teremtett
+    * Isten fia, szintén hebraizmus, Istennel azonos (!)
+    * _Isten egyszülött fia_ = `UNIQUE`/egyedülálló
+* Krisztus egy kínoszlopon halt meg bűneinkért, Jehova újjá teremtette, nem jön vissza, de 1914 óta láthatatlanul jelent van
+    * amit Ádám elvesztett, azt nyerte vissza Krisztus - földi paradicsom - náluk *megfelelő váltság*, az eredeti szövegben *váltságul*
+* A szent **sz**ellem - személytelen, Isten tevékeny `ereje`
+* a kegyelem helyett - Isten ki nem érdemelt kedvessége (Ef 2:8)
+    * megkeresztelkedés - hírnökké avatás
+    * teokratikus oktatás - lojális és aktív tagság, ismeretszerzés Istenről
+* Jézus imában nem megszólítható, csak Jehovához lehet imádkozni, Jn 14:14 - 'amit kértek **tőlem** az Én nevemben', a __tőlem__ szó egyszerűen ki van véve az ÚVF-ből
+* a lélek halandó: a feltámadás az emlékezetből való újjáteremtés
+* az armageddont csak a Tanúk élik túl, örök élet a földi paradicsomban vagy a mennyben
+* az evangáliumuk a királyság evangéliuma 
+    * *i. e. 607 - i. sz. 1914* tartott a pogányok ideje
+    * azóta Krisztus láthatatlanul visszatért
+* **mikor jön el A Vég?**
+    * most már csak annyit mondanak, hogy *nem sokára*
+    * azzal védekeznek, hogy az apostoloknak is voltak téves várakozásaik, de az apostolok megkapták a választ (!)
