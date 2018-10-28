@@ -109,7 +109,7 @@ A Jehova név
 ============
 
 * jelentése: aki életetni fog
-    * minde valószínűség szerint *Jahve*
+    * minden valószínűség szerint *Jahve*
 * ez nem egy személynév
 * a zsidó hagyományban elterjed, hogy JHVH-t olvastak, de *Adonáj*t mondtak
 * a középkori teológusok olvasták össze a JHVH és az Adonák magánhangzóit, hogy a művelt olvasó tudja, hogy Adonájnak kell mondani Jahve helyett - USTAN (i**ST**e**N** + **U**r**A**m)
@@ -150,3 +150,30 @@ Tanaik
 * **mikor jön el A Vég?**
     * most már csak annyit mondanak, hogy *nem sokára*
     * azzal védekeznek, hogy az apostoloknak is voltak téves várakozásaik, de az apostolok megkapták a választ (!)
+
+Hitélet
+=======
+
+* prédikálás, őrállói felelősség Ez 3:17-18
+* állandó tekratikus továbbképzés 
+* házról házra járnak (Mt 10, 11; ApCsel 20, 20; 2Tim 4,2), ingyen jönnek tanulmányozni
+* érvényes szavazatot nem szabad leadni, himnuszt énekelni, párttagnak lenni, stb.
+* pogány ünnep: név- és születésnap, karácsony, húsvét
+* egészségügyi tiltások:
+    * oltás ('23-'54)
+    * szervátültetés ('64-'80)
+    * dohányzás ('73-)
+    * idegen vér/vérátömlesztés ('61-)
+        * a Biblia állati vérről beszél
+        * sok áldozat volt, köztük gyerekek is
+        * névtelen írói bizottság, soha, senki nem vállal felelősséget
+* egy évben kétszer kongresszusok
+* mit tehetünk értük?
+    * ima, szeretet, közös tanulmányozás
+    * kérdések:
+        * Mi a különbség az ő és a felkentek hite között?
+        * Hányféle reménység van az Újszövetség szerint?
+        * Ki hamisította meg a Bibliát? 
+        * Mi szól róla/neki az ÚSZ-ből, ha ő nincs újjászületve?
+        * Kicsoda Jézus? (Ézs 40, 3; Mal 3, 1; - Mt 3, 2; Mt 11, 10)
+        * 
